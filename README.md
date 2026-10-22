@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saladi-siddharth/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saladi-siddharth/leetcode-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/saladi-siddharth/leetcode-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
